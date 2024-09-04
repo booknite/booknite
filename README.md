@@ -22,7 +22,7 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 - [Password Generator & Manager](link-to-repo): Tool for creating and storing complex passwords
 
 ### Web Scrapers
-- [Naver Scraper](https://github.com/booknite/naver-scraper)): Data extraction tool for Korea's largest search engine
+- [Naver Scraper](https://github.com/booknite/naver-scraper): Data extraction tool for Korea's largest search engine
 - [Yogiyo Menu & Info Scraper](link-to-repo): Restaurant data collector from Yogiyo
 - [ADB Scraper](link-to-repo): Android device information extraction tool
 
