@@ -23,7 +23,7 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 
 ### Web Scrapers
 - [Naver Map Scraper](https://github.com/booknite/naver-scraper): Extract name, address, and phone number of locations using Naver Maps
-- [Yogiyo Info Mapper](link-to-repo): Yogiyo restaurant data scraper; uses KakaoMaps API to plot a map
+- [Yogiyo Info Mapper](https://github.com/booknite/yogiyo-info-mapper): Yogiyo restaurant data scraper; uses KakaoMaps API to plot a map
 - [ADB Scraper](link-to-repo): Android device information extraction tool
 
 ### Linux
@@ -41,9 +41,9 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 - [Project 2](link-to-repo): TBD
 
 ## Education & Certifications
-- Google IT Support Certificate (link-to-cert)(link-to-study-notes)
-- Cisco CCNA (link-to-cert)(link-to-study-notes)
-- CompTIA Security+ (link-to-cert)(link-to-study-notes)
+- [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5XG8HNZM5SE)(link-to-study-notes)
+- [Cisco CCNA](https://www.credly.com/badges/2e94876a-96a0-41cf-8539-ea8fcdb6db5c/public_url)(link-to-study-notes)
+- [CompTIA Security+](https://www.credly.com/badges/383c2474-f265-4451-8fa5-f3507ca6d012/public_url)(link-to-study-notes)
 - RHCSA (in progress)
 
 ## Current Learning Goals
