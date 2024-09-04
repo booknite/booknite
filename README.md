@@ -23,7 +23,7 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 
 ### Web Scrapers
 - [Naver Map Scraper](https://github.com/booknite/naver-scraper): Extract name, address, and phone number of locations using Naver Maps
-- [Yogiyo Menu & Info Scraper](link-to-repo): Yogiyo restaurant data scraper; uses KakaoMaps API to plot map
+- [Yogiyo Info Mapper](link-to-repo): Yogiyo restaurant data scraper; uses KakaoMaps API to plot a map
 - [ADB Scraper](link-to-repo): Android device information extraction tool
 
 ### Linux
