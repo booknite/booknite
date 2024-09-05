@@ -38,7 +38,7 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 
 ### Google Sheets
 - [Academy Admin Scheduler](https://github.com/booknite/academy-admin-scheduler/tree/main): Comprehensive scheduler and tuition calculator for small business (academy) owners
-- [Instagram Update Emailer](https://github.com/booknite/instagram-update-emailer): Simpleemail notifcation sender for when an Instagram account makes a new post--no API or account necessary
+- [Instagram Update Emailer](https://github.com/booknite/instagram-update-emailer): Simple email notification sender for when an Instagram account makes a new post--no API or account necessary
 
 ## Education & Certifications
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5XG8HNZM5SE)
