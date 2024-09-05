@@ -37,8 +37,8 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 - [Raspberry Pi Cloud](link-to-repo): Personal cloud storage and sync solution
 
 ### Google Sheets
-- [Project 1](link-to-repo): TBD
-- [Project 2](link-to-repo): TBD
+- [Academy Admin Scheduler][(link-to-repo)](https://github.com/booknite/academy-admin-scheduler/tree/main): Comprehensive scheduler and tuition calculate for small business (academy) owners
+- [Instagram Update Emailer](https://github.com/booknite/instagram-update-emailer): Simple tool to send email notifcations when an Instagram account makes a new post--no API or account necessary
 
 ## Education & Certifications
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5XG8HNZM5SE)
