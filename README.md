@@ -40,6 +40,10 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 - [Academy Admin Scheduler](https://github.com/booknite/academy-admin-scheduler/tree/main): Comprehensive scheduler and tuition calculator for small business (academy) owners
 - [Instagram Update Emailer](https://github.com/booknite/instagram-update-emailer): Simple email notification sender for when an Instagram account makes a new post--no API or account necessary
 
+### Just For Fun
+- [Sprite Mixer](https://github.com/booknite/sprite-mixer/blob/main/README.md): Change sprites and icons to match your color scheme when ricing a Linux distro
+
+
 ## Education & Certifications
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5XG8HNZM5SE)
 - [Cisco CCNA](https://www.credly.com/badges/2e94876a-96a0-41cf-8539-ea8fcdb6db5c/public_url)
