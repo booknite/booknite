@@ -11,6 +11,7 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 ## Projects
 
 ### Networking
+- [Check Ethernet Network](https://github.com/booknite/toolbox/blob/main/network/check-ethernet.md): Check for network congestion with bmon, nethogs, ping, and mtr.
 - [Nmap Scanner](link-to-repo): Network discovery and security auditing tool
 - [Linux DNS Server](link-to-repo): Secure and efficient DNS server implementation
 - [Deep Packet Inspection](link-to-repo): Detailed network traffic analysis tool
