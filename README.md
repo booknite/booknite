@@ -10,8 +10,11 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 
 ## Projects
 
+### Security
+- [ILSABI 일반 사용자 비번 프로파일러](https://github.com/booknite/ilsabi): Wordlist generator inspired by CUPP for cracking weak Korean passwords
+
 ### Networking
-- [Check Ethernet Network](https://github.com/booknite/toolbox/blob/main/network/check-ethernet.md): Check for network congestion with bmon, nethogs, ping, and mtr.
+- [Check Ethernet Network](https://github.com/booknite/toolbox/blob/main/network/check-ethernet.md): Check for network congestion with bmon, nethogs, ping, and mtr
 - [Nmap Scanner](link-to-repo): Network discovery and security auditing tool
 - [Linux DNS Server](link-to-repo): Secure and efficient DNS server implementation
 - [Deep Packet Inspection](link-to-repo): Detailed network traffic analysis tool
