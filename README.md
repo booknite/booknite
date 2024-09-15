@@ -10,6 +10,9 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 
 ## Projects
 
+### Personal
+- [indxware](https://github.com/booknite/indxware): Simple and fast index notepad for VIM commands (or any notes)
+
 ### Security
 - [ILSABI 일반 사용자 비번 프로파일러](https://github.com/booknite/ilsabi): Wordlist generator inspired by CUPP for cracking weak Korean passwords
 
@@ -43,10 +46,6 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 ### Google Sheets
 - [Academy Admin Scheduler](https://github.com/booknite/academy-admin-scheduler/tree/main): Comprehensive scheduler and tuition calculator for small business (academy) owners
 - [Instagram Update Emailer](https://github.com/booknite/instagram-update-emailer): Simple email notification sender for when an Instagram account makes a new post--no API or account necessary
-
-### Just For Fun
-- [Sprite Mixer](https://github.com/booknite/sprite-mixer/blob/main/README.md): Change sprites and icons to match your color scheme when ricing a Linux distro
-
 
 ## Education & Certifications
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5XG8HNZM5SE)
