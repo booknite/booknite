@@ -20,7 +20,7 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 - [SQL Injection Demo](link-to-repo): SQL injection vulnerability learning environment
 - [HTTP Proxy](link-to-repo): Custom proxy for traffic analysis and modification
 - [Password Generator & Manager](link-to-repo): Tool for creating and storing complex passwords
-- 
+  
 ### Networking
 - [Check Ethernet Network](https://github.com/booknite/toolbox/blob/main/network/check-ethernet.md): Check for network congestion with bmon, nethogs, ping, and mtr
 - [Simple HTTP/HTTPS Socket Client](https://github.com/booknite/simple-socket-client.git): Simple HTTP/HTTPS socket client that connects to web servers, sends requests, and displays responses in the terminal
