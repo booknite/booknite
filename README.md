@@ -12,6 +12,7 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 
 ### Personal
 - [indxware](https://github.com/booknite/indxware): Simple and fast index notepad for VIM commands (or any notes)
+- [Sprite Mixer](https://github.com/booknite/sprite-mixer): Tool for changing the color of sprites/images to match common Linux distro themes
 
 ### Security
 - [ILSABI 일반 사용자 비번 프로파일러](https://github.com/booknite/ilsabi): Wordlist generator inspired by CUPP for cracking weak Korean passwords
@@ -66,4 +67,4 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 ## GitHub Stats
 ![booknite's GitHub stats](https://github-readme-stats.vercel.app/api?username=booknite&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=booknite&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=booknite&layout=compact&theme=radical)]
