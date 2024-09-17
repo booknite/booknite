@@ -10,13 +10,17 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 
 ## Projects
 
-### Personal
+### Programming
 - [indxware](https://github.com/booknite/indxware): Simple and fast index notepad for VIM commands (or any notes)
 - [Sprite Mixer](https://github.com/booknite/sprite-mixer): Tool for changing the color of sprites/images to match common Linux distro themes
 
 ### Security
 - [ILSABI 일반 사용자 비번 프로파일러](https://github.com/booknite/ilsabi): Wordlist generator inspired by CUPP for cracking weak Korean passwords
-
+- [Keylogger](link-to-repo): Project demonstrating keyboard input capture
+- [SQL Injection Demo](link-to-repo): SQL injection vulnerability learning environment
+- [HTTP Proxy](link-to-repo): Custom proxy for traffic analysis and modification
+- [Password Generator & Manager](link-to-repo): Tool for creating and storing complex passwords
+- 
 ### Networking
 - [Check Ethernet Network](https://github.com/booknite/toolbox/blob/main/network/check-ethernet.md): Check for network congestion with bmon, nethogs, ping, and mtr
 - [Simple HTTP/HTTPS Socket Client](https://github.com/booknite/simple-socket-client.git): Simple HTTP/HTTPS socket client that connects to web servers, sends requests, and displays responses in the terminal
@@ -24,13 +28,7 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 - [Linux DNS Server](link-to-repo): Secure and efficient DNS server implementation
 - [Deep Packet Inspection](link-to-repo): Detailed network traffic analysis tool
 
-### Programming
-- [Keylogger](link-to-repo): Project demonstrating keyboard input capture
-- [SQL Injection Demo](link-to-repo): SQL injection vulnerability learning environment
-- [HTTP Proxy](link-to-repo): Custom proxy for traffic analysis and modification
-- [Password Generator & Manager](link-to-repo): Tool for creating and storing complex passwords
-
-### Web Scrapers
+### Web Scrapers & Automation
 - [Naver Map Scraper](https://github.com/booknite/naver-scraper): Extract name, address, and phone number of locations using Naver Maps
 - [Yogiyo Info Mapper](https://github.com/booknite/yogiyo-info-mapper): Yogiyo restaurant data scraper; uses KakaoMaps API to plot a map
 - [ADB Scraper](link-to-repo): Android device information extraction tool
