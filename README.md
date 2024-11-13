@@ -24,9 +24,6 @@ Amateur Linux enthusiast interested in FOSS. Trying to get good at computer.
 - CompTIA Linux+ (in progress)
 - RHCSA (in progress)
 
-## Connect
-- Email: [nelsonjb@proton.me](mailto:nelsonjb@proton.me)
-
 ## GitHub Stats
 ![booknite's GitHub stats](https://github-readme-stats.vercel.app/api?username=booknite&show_icons=true&theme=radical)
 
