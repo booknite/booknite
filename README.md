@@ -1,11 +1,7 @@
 # Welcome to booknite's GitHub
 
 ## About Me
-Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm using this page to organize my projects and IT goals. Always learning and expanding my tech skills--trying to get good at computers.
-
-## Skills
-- **Languages:** Python, JavaScript, Bash
-- **Interests:** Linux, Cybersecurity, Networking, Raspberry Pi, Scripting, Automation, Homelab Setup
+Amateur Linux enthusiast interested in FOSS. Trying to get good at computer.
 
 ## Projects
 
@@ -29,18 +25,13 @@ Amateur Linux enthusiast interested in FOSS, cybersecurity and networking. I'm u
 - [Academy Admin Scheduler](https://github.com/booknite/academy-admin-scheduler/tree/main): Comprehensive scheduler and tuition calculator for small business (academy) owners
 - [Instagram Update Emailer](https://github.com/booknite/instagram-update-emailer): Simple email notification sender for when an Instagram account makes a new post--no API or account necessary
 
-## Education & Certifications
+## Certs & Learning Goals
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5XG8HNZM5SE)
 - [Cisco CCNA](https://www.credly.com/badges/2e94876a-96a0-41cf-8539-ea8fcdb6db5c/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/383c2474-f265-4451-8fa5-f3507ca6d012/public_url)
 - AWS SAA-C03 (in progress)
+- CompTIA Linux+
 - RHCSA (in progress)
-
-## Current Learning Goals
-- Deepen network security knowledge
-- Expand Linux administration skills
-- Explore cloud technologies (AWS, Azure)
-- Contribute to open-source projects
 
 ## Connect
 - Email: [nelsonjb@proton.me](mailto:nelsonjb@proton.me)
