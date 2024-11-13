@@ -16,21 +16,12 @@ Amateur Linux enthusiast interested in FOSS. Trying to get good at computer.
 - [Check Ethernet Network](https://github.com/booknite/toolbox/blob/main/network/check-ethernet.md): Check for network congestion with bmon, nethogs, ping, and mtr
 - [Simple HTTP/HTTPS Socket Client](https://github.com/booknite/simple-socket-client.git): Simple HTTP/HTTPS socket client that connects to web servers, sends requests, and displays responses in the terminal
 
-### Web Scrapers & Automation
-- [Naver Map Scraper](https://github.com/booknite/naver-scraper): Extract name, address, and phone number of locations using Naver Maps
-- [Yogiyo Info Mapper](https://github.com/booknite/yogiyo-info-mapper): Yogiyo restaurant data scraper; uses KakaoMaps API to plot a map
-- [ADB Scraper](link-to-repo): Android device information extraction tool
-
-### Google Sheets
-- [Academy Admin Scheduler](https://github.com/booknite/academy-admin-scheduler/tree/main): Comprehensive scheduler and tuition calculator for small business (academy) owners
-- [Instagram Update Emailer](https://github.com/booknite/instagram-update-emailer): Simple email notification sender for when an Instagram account makes a new post--no API or account necessary
-
 ## Certs & Learning Goals
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D5XG8HNZM5SE)
 - [Cisco CCNA](https://www.credly.com/badges/2e94876a-96a0-41cf-8539-ea8fcdb6db5c/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/383c2474-f265-4451-8fa5-f3507ca6d012/public_url)
 - AWS SAA-C03 (in progress)
-- CompTIA Linux+
+- CompTIA Linux+ (in progress)
 - RHCSA (in progress)
 
 ## Connect
